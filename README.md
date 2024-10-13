@@ -2,6 +2,10 @@
 
 This repository contains the implementation of a comparative analysis of machine learning models for predicting the Municipal Human Development Index (MHDI, represented by IDHM in this dataset) in Brazil. The main focus is on evaluating and comparing the performance of different regression models, such as Linear Regression, KNN, Decision Trees, Random Forest and Extra Trees, in predicting the MHDI of Brazilian municipalities. The dataset used in this study is the Atlas of Human Development in Brazil, which contains information about the MHDI and other socio-economic indicators of Brazilian municipalities. Finding out the best approach for predicting the MHDI can help governments and policymakers to make better decisions and allocate resources more efficiently was the main motivation behind this study.
 
+## About the paper
+
+The paper can be read from [here](Análise_Comparativa_de_Modelos_de_Regressão_para_Previsão_do_IDHM_de_Cidades_Brasileiras_Usando_Aprendizado_de_Máquina.pdf), although be aware that it's written in Portuguese.
+
 ## Key Features
 
 - **Dataset**: The dataset used contains socioeconomic variables in Brazilian municipalities, there are 5573 entries and 81 columns (80 features and 1 target variable).
